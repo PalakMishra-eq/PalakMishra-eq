@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## C4GT Contributor 2024 | The Mifos Initiative | Open Banking PISP Fintech App
+## Works on :
+-- Javascript
+- Java
 - 🔭 I’m currently working on ... Myself
 - 🌱 I’m currently learning ... Blockchain
 - 👯 I’m looking to collaborate on ... Solidity

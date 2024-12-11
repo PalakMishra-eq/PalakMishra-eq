@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### C4GT Contributor 2024 | The Mifos Initiative | Open Banking PISP Fintech App
 
 - 🔭 I’m currently working on ... Myself
-- 🌱 I’m currently learning ... Mojaloop
+- 🌱 I’m currently learning ... Solidity
 - 👯 I’m looking to collaborate on ... Open source projects

@@ -2,7 +2,7 @@
 
 ### 
 
-### <img src="https://user-images.githubusercontent.com/48005711/192122877-e301b174-b890-47b7-9cb9-d08df3daa977.png" alt="css3" width="60" height="60"/>
+### 
 ### Code For Govt Tech (C4GT) The Mifos Initiative
 ## Works on 
 #### 🟢 Systems and Networks
